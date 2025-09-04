@@ -56,7 +56,8 @@ Flujo de trabajo con ramas (branching, merge, pull requests)
 - **Merge:** Unir cambios de diferentes ramas, integrando nuevas funcionalidades al proyecto base.
 - **Pull Requests:** Solicitud de revisión y fusión de cambios en una rama hacia otra (por lo general, hacia la rama principal), facilitando la colaboración y revisión de código.
 
-Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web  
+Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web  <img width="308" height="184" alt="image" src="https://github.com/user-attachments/assets/e8da8bcd-0439-474e-9117-c87765ac39ad" />
+
 1.-Diseño e implementación del frontend  
 Maquetación/Wireframe/Mockup
 API
@@ -102,6 +103,14 @@ El backend implementa operaciones CRUD (Crear, Leer, Actualizar, Eliminar) para 
 4.-Seguridad básica en aplicaciones web
 Validación de formularios
 Autenticación y autorización 
+
+## Validación de Formularios
+Verifica que los datos enviados por los usuarios sean correctos y seguros tanto en el frontend como en el backend, evitando ataques como la inyección de código.
+
+## Autenticación y Autorización
+- **Autenticación:** Proceso para verificar la identidad de un usuario (login, tokens, sesiones).
+- **Autorización:** Controla el acceso a recursos y funcionalidades según los permisos del usuario.
+
 
 Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional
 1. -Integración de frontend y backend
