@@ -112,7 +112,8 @@ Verifica que los datos enviados por los usuarios sean correctos y seguros tanto 
 - **Autorización:** Controla el acceso a recursos y funcionalidades según los permisos del usuario.
 
 
-Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional
+Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional <img width="276" height="174" alt="image" src="https://github.com/user-attachments/assets/7013ee9b-df04-4ace-854d-46276ddcda4b" />
+
 1. -Integración de frontend y backend
 Interfaz de usuario Frontend
 Manejo de API
